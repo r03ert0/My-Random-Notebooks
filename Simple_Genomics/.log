@@ -1,0 +1,49 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Connecting to web...  OK, v1.07 is current
+
++++ PLINK 1.9 is now available! See above website for details +++ 
+
+Writing this text to log file [ Simple_Genomics/.log ]
+Analysis started: Sun Dec 11 08:21:25 2016
+
+Options in effect:
+	--bfile Simple_Genomics/adni100k
+	--out Simple_Genomics/
+
+Reading map (extended format) from [ Simple_Genomics/adni100k.bim ] 
+100257 markers to be included from [ Simple_Genomics/adni100k.bim ]
+Reading pedigree information from [ Simple_Genomics/adni100k.fam ] 
+757 individuals read from [ Simple_Genomics/adni100k.fam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 757 missing
+449 males, 308 females, and 0 of unspecified sex
+Reading genotype bitfile from [ Simple_Genomics/adni100k.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Before frequency and genotyping pruning, there are 100257 SNPs
+757 founders and 0 non-founders found
+1020 heterozygous haploid genotypes; set to missing
+Writing list of heterozygous haploid genotypes to [ Simple_Genomics/.hh ]
+4545 SNPs with no founder genotypes observed
+Warning, MAF set to 0 for these SNPs (see --nonfounders)
+Writing list of these SNPs to [ Simple_Genomics/.nof ]
+Total genotyping rate in remaining individuals is 0.949356
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 100257 SNPs
+After filtering, 0 cases, 0 controls and 757 missing
+After filtering, 449 males, 308 females, and 0 of unspecified sex
+
+Analysis finished: Sun Dec 11 08:21:28 2016
+
