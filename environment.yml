@@ -1,0 +1,12 @@
+name: my-random-environment
+
+dependencies:
+  - python=2.7
+  - seaborn
+  - nilearn
+  - matplotlib
+  - numpy
+  - pandas
+  - statsmodels
+  - pip:
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]

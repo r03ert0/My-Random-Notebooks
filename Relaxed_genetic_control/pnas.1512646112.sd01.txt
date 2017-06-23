@@ -1,0 +1,6 @@
+- Dataset S2: chimpanzees; Dataset S3: humans.
+- Abbreviations as in main text.
+- Linear dimensions are multiplied by 100.
+- Chimpanzee pedigree can be found at http://datadryad.org/resource/doi:10.5061/dryad.vk966
+- As per Human Connectome Project (HCP) requirement, HCP-assigned IDs have not been reported for human subjects. Correspondence between this study IDs and HCP IDs can be obtained by authorized users through the HCP website. 
+- As per HCP requirement, family structure and age of human subjects cannot be included in datasets. Brain volumes have not been included because they can be used to link HCP and study-specific IDs. This information can be obtained from the WU-Minn HCP Consortium upon application and acceptance of Restricted Data Use Terms (http://www.humanconnectome.org/data/data-use-terms/restricted-access.html).
