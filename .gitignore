@@ -8,5 +8,6 @@ Simple_Genomics/plink-1.07-mac-intel
 *.mgh.gz
 *.mgz
 *.mgh
-
+.DS_Store
+._.DS_Store
 .ipynb_checkpoints
